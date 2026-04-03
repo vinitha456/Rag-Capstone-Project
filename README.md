@@ -1,4 +1,4 @@
-# 🔍 PDF RAG Engine -Conversational Document Q&A with Gemini + LangChain
+# 🔍 PDF RAG Engine -Conversational Document Q&A with Gemini & LangChain
 
 > Ask natural language questions against your own PDF documents. Answers are grounded strictly in your content — no hallucinations, full source citations.
 
